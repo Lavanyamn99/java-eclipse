@@ -19,7 +19,7 @@ public class WarddrobeStarter {
 				operator.add("saree");
 				operator.add("bag");
 				
-				operator.update(1, "jewellery");
+				operator.update(1,"jewellery");
 				operator.delete(3);
 				
 				operator.displayThings();
