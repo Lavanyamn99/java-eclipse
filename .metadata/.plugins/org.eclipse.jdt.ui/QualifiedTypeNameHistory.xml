@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="com.xworkz.coffee.CoffeeDTO.CementDTO"/>
+<fullyQualifiedTypeName name="com.xworkz.dto.BlueToothDTO"/>
+<fullyQualifiedTypeName name="com.xworkz.dao.ChargerDAO"/>
 </qualifiedTypeNameHistroy>
