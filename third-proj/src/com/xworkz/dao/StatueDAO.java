@@ -26,7 +26,7 @@ public class StatueDAO {
 		System.out.println("INVOKED THE DELETE INDEX".concat(String.valueOf(index)));
 		if(index>=0 && index<this.statue.length)
 		{
-			this.statue[level]=null;
+			this.statue[index]=null;
 			System.out.println("DELETED");
 		}
 		else

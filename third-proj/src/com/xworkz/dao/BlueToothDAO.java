@@ -26,7 +26,7 @@ public void delete(int index)
 	System.out.println("INVOKED THE DELETE INDEX".concat(String.valueOf(index)));
 	if(index>=0 && index<this.blue.length)
 	{
-		this.blue[level]=null;
+		this.blue[index]=null;
 		System.out.println("DELETED");
 	}
 	else

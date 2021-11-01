@@ -14,6 +14,7 @@ public class BlueToothDAOStarter {
 		blueToothDAO.add(bluetooth2);
 		BlueToothDTO bluetooth3=new BlueToothDTO("SAMSUNG","head-set",9900.0f,2.45f,2.0f);
 		blueToothDAO.add(bluetooth3);
+		blueToothDAO.delete(1);
 	}
 
 }

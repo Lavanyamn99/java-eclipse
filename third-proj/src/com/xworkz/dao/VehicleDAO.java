@@ -27,7 +27,7 @@ public class VehicleDAO {
 		System.out.println("INVOKED THE DELETE INDEX".concat(String.valueOf(index)));
 		if(index>=0 && index<this.vehicle.length)
 		{
-			this.vehicle[color]=null;
+			this.vehicle[index]=null;
 			System.out.println("DELETED");
 		}
 		else

@@ -25,7 +25,7 @@ public class CementDAO {
 		System.out.println("INVOKED THE DELETE INDEX".concat(String.valueOf(index)));
 		if(index>=0 && index<this.cement.length)
 		{
-			this.cement[name]=null;
+			this.cement[index]=null;
 			System.out.println("DELETED");
 		}
 		else
