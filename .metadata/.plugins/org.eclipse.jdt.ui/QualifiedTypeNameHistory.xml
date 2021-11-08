@@ -3,4 +3,7 @@
 <fullyQualifiedTypeName name="com.xworkz.coffee.CoffeeDTO.CementDTO"/>
 <fullyQualifiedTypeName name="com.xworkz.dto.BlueToothDTO"/>
 <fullyQualifiedTypeName name="com.xworkz.dao.ChargerDAO"/>
+<fullyQualifiedTypeName name="com.xworkz.dao.FoodType"/>
+<fullyQualifiedTypeName name="com.xworkz.woodshop.design.Furniture"/>
+<fullyQualifiedTypeName name="com.xworkz.woodshop.design.sub.ComputerTableFurniture"/>
 </qualifiedTypeNameHistroy>
