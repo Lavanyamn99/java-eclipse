@@ -6,4 +6,8 @@
 <fullyQualifiedTypeName name="com.xworkz.dao.FoodType"/>
 <fullyQualifiedTypeName name="com.xworkz.woodshop.design.Furniture"/>
 <fullyQualifiedTypeName name="com.xworkz.woodshop.design.sub.ComputerTableFurniture"/>
+<fullyQualifiedTypeName name="com.xworkz.email.dao.EmailDAO"/>
+<fullyQualifiedTypeName name="com.xworkz.email.dto.parent.EmailDTO"/>
+<fullyQualifiedTypeName name="com.xworkz.outlook.dto.child.OutLookEmailDTO"/>
+<fullyQualifiedTypeName name="com.xworkz.gmail.dto.sub.GmailEmailDTO"/>
 </qualifiedTypeNameHistroy>
