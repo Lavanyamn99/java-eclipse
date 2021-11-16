@@ -10,4 +10,6 @@
 <fullyQualifiedTypeName name="com.xworkz.email.dto.parent.EmailDTO"/>
 <fullyQualifiedTypeName name="com.xworkz.outlook.dto.child.OutLookEmailDTO"/>
 <fullyQualifiedTypeName name="com.xworkz.gmail.dto.sub.GmailEmailDTO"/>
+<fullyQualifiedTypeName name="com.xworkz.parent.Factory"/>
+<fullyQualifiedTypeName name="com.xworkz.subclass.CarFactory"/>
 </qualifiedTypeNameHistroy>
