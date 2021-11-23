@@ -12,4 +12,7 @@
 <fullyQualifiedTypeName name="com.xworkz.gmail.dto.sub.GmailEmailDTO"/>
 <fullyQualifiedTypeName name="com.xworkz.parent.Factory"/>
 <fullyQualifiedTypeName name="com.xworkz.subclass.CarFactory"/>
+<fullyQualifiedTypeName name="com.xworkz.ElectionRules.ElectionRules"/>
+<fullyQualifiedTypeName name="com.xworkz.ElectionRules.CitizenElectionRules"/>
+<fullyQualifiedTypeName name="com.xworkz.ElectionRules.KarnatakaElection"/>
 </qualifiedTypeNameHistroy>
